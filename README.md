@@ -20,11 +20,15 @@ Client code stays private. Happy to walk through either one on a call.
 
 Working products built from scratch to test an idea, with sample data.
 
-- **Wattson.** California Title 24 lighting compliance: plan canvas, live compliance engine, rulebook stored as data, certificate report. [Live demo](https://wattson-five.vercel.app)
-- **Cadence PT.** Physical therapy referral tracking, Plan-of-Care compliance and remote monitoring billing, with end-to-end and accessibility tests. [Live demo](https://cadence-pt.vercel.app)
-- **Cultivate.** Fundraising CRM for small nonprofits: donation pages, recurring gifts, donor retention analytics and tax receipts. [Live demo](https://cultivate-fundraising.vercel.app)
+- **Wattson.** California Title 24 lighting compliance: plan canvas, live compliance engine, rulebook stored as data, certificate report. [Live demo](https://wattson-five.vercel.app) · [Code](https://github.com/brianw123-cell/wattson)
+- **Cadence PT.** Physical therapy referral tracking, Plan-of-Care compliance and remote monitoring billing, with end-to-end and accessibility tests. [Live demo](https://cadence-pt.vercel.app) · [Code](https://github.com/brianw123-cell/cadence-pt)
+- **Cultivate.** Fundraising CRM for small nonprofits: donation pages, recurring gifts, donor retention analytics and tax receipts. [Live demo](https://cultivate-fundraising.vercel.app) · [Code](https://github.com/brianw123-cell/cultivate-fundraising)
 - **SPAAMFAA apparatus archive.** A searchable archive of antique fire apparatus by manufacturer. [Live demo](https://spaamfaa-archive-poc.vercel.app)
-- **EV OptiSpeed.** Finds the driving speed that gets an electric car there fastest once charging stops are counted. [Live demo](https://ev-optispeed.vercel.app)
+- **EV OptiSpeed.** Finds the driving speed that gets an electric car there fastest once charging stops are counted. [Live demo](https://ev-optispeed.vercel.app) · [Code](https://github.com/brianw123-cell/ev-optispeed)
+
+- **Flight Scheduler.** A month of flights on one grid for airline pilot bid prep, with FAA duty-rule warnings and an API cache that survives outages. [Live demo](https://flight-scheduler-gamma.vercel.app) · [Code](https://github.com/brianw123-cell/flight-scheduler)
+
+**Also:** [AI Risk Map](https://github.com/brianw123-cell/ai-risk-map), a sourced map of 18 good and bad AI scenarios, and [Steel Pulse Solar](https://github.com/brianw123-cell/steel-pulse-solar), a browser game about running a solar installation company.
 
 ## How I build
 
