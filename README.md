@@ -33,3 +33,5 @@ Working products built from scratch to test an idea, with sample data.
 ## How I build
 
 Claude Code every day, run on written standards: custom skills, permission rules for anything risky, hooks that check work before it ships, and MCP connectors into Slack, Google Drive, Gmail and Postgres. Usual stack: Next.js, TypeScript, Supabase (Postgres, row-level security) and Vercel.
+
+[See how my Claude Code setup is organized](https://brianw123-cell.github.io/claude-code-config-overview/) · [Code](https://github.com/brianw123-cell/claude-code-config-overview)
