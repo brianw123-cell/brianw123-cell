@@ -12,7 +12,7 @@ I spent 25 years in product development at Tesla, SolarCity and GAF Energy. Sinc
 
 **TrailWorks booking platform.** A mountain bike coaching school moved from texts, emails and a calendar to online booking, waivers, payments, reminders and two-way Google Calendar sync. The owner: *"What used to take me about 8 to 10 minutes to do per client now takes me about 15 seconds."* [See the booking calendar](https://trailworks-platform.vercel.app/programs)
 
-<img src="https://raw.githubusercontent.com/brianw123-cell/west-product-development/main/trailworks-booking.png" alt="TrailWorks booking calendar" width="600">
+<img src="https://raw.githubusercontent.com/brianw123-cell/brianw123-cell/main/trailworks-booking.png" alt="TrailWorks booking calendar" width="600">
 
 Client code stays private. Happy to walk through either one on a call.
 
